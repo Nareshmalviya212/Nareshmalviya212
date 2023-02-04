@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nareshmalviya212
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning AI
-- 📫 How to reach me - 7357027318
+- 📫 How to reach me - malviyanaresh6219@gmail.com
 - 🔅 looking Job opportunity
 
 <!---
